@@ -29,3 +29,4 @@ User-agent: Bingbot
 Allow: /
 
 Sitemap: https://alaliadvocates.com/sitemap.xml
+Sitemap: https://ai.alaliadvocates.com/sitemap.xml
