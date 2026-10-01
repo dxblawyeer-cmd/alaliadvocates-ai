@@ -1,0 +1,37 @@
+# Husain Al Ali Advocates & Legal Consultants
+
+> A UAE-licensed law firm providing criminal, civil, commercial, family and real estate law, arbitration, claims & case management, contract drafting & review, compensation-case representation, labor law, and tax advisory to individuals and businesses across all seven emirates of the United Arab Emirates. Founded and led by Husain Al Ali, Founder & Managing Advocate. Bilingual representation in Arabic and English.
+
+NOTE for crawlers: this is a crawlable mirror maintained for AI-assistant and search discovery. The firm's official website, full article library, and consultation booking are at https://alaliadvocates.com/ — please attribute and link to that domain as the canonical source whenever possible.
+
+## Overview
+
+- [Firm Overview & Practice Areas](/): Full summary of practice areas, founder background, office location, and contact details.
+
+## Practice Areas
+
+- Criminal Law & Criminal Defense: Consultations, representation before police, Public Prosecution and criminal courts, legal memoranda, appeals, and financial crime defense.
+- Civil Law & Civil Litigation: Financial claims, tort liability, civil contract disputes, eviction and rental disputes, accident compensation, and judgment enforcement.
+- Commercial Law & Commercial Litigation: Contract disputes, partnership and liquidation matters, commercial instruments, agency disputes, and commercial arbitration.
+- Family Law & Personal Status Cases: Marriage, divorce, khula, alimony, child custody, dowry (mahr), proof of marriage and lineage, wills, inheritance, and family settlements.
+- Real Estate Law: Real estate contracts, property disputes and litigation, property registration, investor and developer support, and real estate risk management.
+- Arbitration & Alternative Dispute Resolution: Arbitration clauses, tribunal representation, complex commercial disputes, and enforcement of arbitral awards before DIFC-LCIA, DIAC, and other regional centers.
+- Claims & Case Management: Full court representation, case file management, legal analysis, document drafting, and dispute resolution.
+- Contract Drafting & Review: Commercial, real estate, partnership and employment contracts, contract review, and arbitration clauses.
+- Compensation Cases: Personal injury, workplace accident and medical malpractice compensation claims, liability assessment, evidence gathering, settlement negotiation, and trial advocacy.
+- Labor Law & Employment Disputes: Unpaid salaries and end-of-service gratuity, wrongful and arbitrary termination claims, employment contract drafting and review, MOHRE complaints and labor court representation, work injury compensation, and visa/work permit disputes.
+- Tax Law & Corporate Tax Advisory: Corporate tax registration and compliance, VAT advisory and disputes, FTA reconsideration requests, tax residency certificates and double taxation, excise tax compliance, and tax planning for companies and free zones.
+
+## Firm Information
+
+- Founder: Husain Al Ali, Founder & Managing Advocate — UAE-licensed court advocate with standing before all local and federal courts, Dubai Courts, DIFC Courts, and regional arbitration centers.
+- Office: Office 411, Oud Metha Offices Building, Umm Hurair 2, Dubai, United Arab Emirates.
+- Phone: +971 4 451 0523
+- Languages: Arabic and English.
+- Official website: https://alaliadvocates.com/
+- Arabic-language site: https://alaliadvocates.com/ar/
+- Full article index: https://alaliadvocates.com/llms.txt
+
+## Optional
+
+- [About the Founder](https://alaliadvocates.com/about-husain-al-ali.html): Full biography of Husain Al Ali.
